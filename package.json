@@ -12,7 +12,11 @@
   },
   "author": "temi noah",
   "license": "ISC",
-  "bugs": {
+  "dependencies": {
+    "jasmine": "^2.6.0",
+    "jasmine-node": "^1.14.5"
+  }
+,  "bugs": {
     "url": "https://github.com/temiNoah/day3bootcampProject/issues"
   },
   "homepage": "https://github.com/temiNoah/day3bootcampProject#readme"
