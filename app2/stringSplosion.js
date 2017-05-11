@@ -6,6 +6,8 @@ function StringSplosion (strArg)
 }
 
 
+
+
 StringSplosion.prototype.manipulate = function()
 {
 	     return this.removeLastChar (this.strToBeSpl ) ;
