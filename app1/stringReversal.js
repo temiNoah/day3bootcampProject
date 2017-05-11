@@ -12,8 +12,7 @@ const reverseString = (strArgs)=>
 	    	 return true;
 	    else 
 	    	 return reversedString;
-   }
-   
+   }   
    else 
       return null; 	
 }
