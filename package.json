@@ -1,0 +1,19 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "description": "string reversal and string splosion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/temiNoah/day3bootcampProject.git"
+  },
+  "author": "temi noah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/temiNoah/day3bootcampProject/issues"
+  },
+  "homepage": "https://github.com/temiNoah/day3bootcampProject#readme"
+}
